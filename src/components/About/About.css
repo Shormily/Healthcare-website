@@ -1,0 +1,18 @@
+.disply {
+  border-radius: 40px;
+}
+.pra {
+  text-align: center;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: green;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: rgb(240, 237, 209);
+  border-radius: 20px;
+  padding: 20px;
+}
+h2 {
+  color: rgb(42, 17, 202);
+  font-size: 50px;
+}

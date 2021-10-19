@@ -1,0 +1,61 @@
+.header {
+  font-size: 60px;
+  color: rgb(89, 10, 180);
+}
+.class {
+  display: flex;
+}
+.image4 {
+  margin-top: 40px;
+  height: 300px;
+}
+
+.pragraph {
+  text-align: center;
+  margin-top: 150px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.text {
+  text-align: center;
+  margin-top: 180px;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+.first-text {
+  color: slateblue;
+  margin-top: 20px;
+  text-shadow: 2px 2px 5px goldenrod;
+  font-size: 70px;
+}
+.colorground {
+  background-color: rgb(228, 250, 228);
+}
+
+.margin {
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 50px;
+  gap: 50px;
+  background-color: skyblue;
+}
+
+.img {
+  width: 100%;
+}
+
+.foundation {
+  color: slateblue;
+  text-shadow: 2px 2px 5px goldenrod;
+  padding: 20px;
+  font-size: 50px;
+}
+.light {
+  color: green;
+  font-size: 60px;
+}
+.pra {
+  text-align: center;
+}
